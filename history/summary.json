@@ -58,18 +58,20 @@
     "url": "https://gitea.woomy.ovh",
     "icon": "https://favicons.githubusercontent.com/gitea.woomy.ovh",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 933,
-    "timeWeek": 933,
-    "timeMonth": 933,
-    "timeYear": 933,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
+    "dailyMinutesDown": {
+      "2021-12-19": 0
+    }
   },
   {
     "name": "Bitwarden",
