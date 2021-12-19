@@ -23,7 +23,8 @@ sites:
     url: https://gsi2zip.woomy.ovh
   - name: Start page
     url: https://start.woomy.ovh
-
+assignees:
+  - woomymy
 status-website:
   cname: status.woomy.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -34,5 +35,3 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
