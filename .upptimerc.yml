@@ -23,6 +23,8 @@ sites:
     url: https://gsi2zip.woomy.ovh
   - name: Start page
     url: https://start.woomy.ovh
+  - name: Joplin server
+    url: https://joplin.woomy.ovh
 assignees:
   - woomymy
 status-website:
