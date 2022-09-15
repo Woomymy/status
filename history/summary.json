@@ -6,9 +6,9 @@
     "slug": "personnal-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 322,
     "timeDay": 169,
@@ -16,7 +16,7 @@
     "timeMonth": 333,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2022-09-15": 37
+      "2022-09-15": 28
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 336,
     "timeDay": 228,
@@ -36,7 +36,7 @@
     "timeMonth": 321,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2022-09-15": 37
+      "2022-09-15": 28
     }
   },
   {
@@ -257,11 +257,11 @@
     "url": "https://start.woomy.ovh",
     "icon": "https://favicons.githubusercontent.com/start.woomy.ovh",
     "slug": "start-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 253,
     "timeDay": 203,
@@ -269,7 +269,7 @@
     "timeMonth": 229,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-09-15": 37
+      "2022-09-15": 28
     }
   },
   {
