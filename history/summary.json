@@ -4,9 +4,9 @@
     "url": "https://woomy.ovh",
     "icon": "https://favicons.githubusercontent.com/woomy.ovh",
     "slug": "personnal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 393,
     "timeMonth": 345,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.woomy.ovh",
     "icon": "https://favicons.githubusercontent.com/blog.woomy.ovh",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 334,
     "timeMonth": 329,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Files storage",
@@ -144,11 +148,11 @@
     "icon": "https://favicons.githubusercontent.com/rss.woomy.ovh",
     "slug": "fresh-rss",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.01%",
+    "uptimeYear": "93.03%",
     "time": 627,
     "timeDay": 392,
     "timeWeek": 620,
@@ -213,11 +217,11 @@
     "icon": "https://favicons.githubusercontent.com/gsi2zip.woomy.ovh",
     "slug": "gsi-2-zip",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.65%",
+    "uptimeYear": "94.66%",
     "time": 612,
     "timeDay": 473,
     "timeWeek": 573,
@@ -253,9 +257,9 @@
     "url": "https://start.woomy.ovh",
     "icon": "https://favicons.githubusercontent.com/start.woomy.ovh",
     "slug": "start-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -264,7 +268,9 @@
     "timeWeek": 245,
     "timeMonth": 231,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Joplin server",
