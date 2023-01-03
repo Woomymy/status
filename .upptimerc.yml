@@ -10,7 +10,7 @@ sites:
   - name: Files storage
     url: https://files.woomy.be
   - name: Gitea
-    url: https://gitea.woomy.ovh
+    url: https://gitea.woomy.be
   - name: Bitwarden
     url: https://bitwarden.woomy.be
   - name: NextCloud
