@@ -12,7 +12,7 @@ sites:
   - name: Gitea
     url: https://gitea.woomy.ovh
   - name: Bitwarden
-    url: https://bitwarden.woomy.ovh
+    url: https://bitwarden.woomy.be
   - name: NextCloud
     url: https://nextcloud.woomy.ovh
   - name: FreshRSS
