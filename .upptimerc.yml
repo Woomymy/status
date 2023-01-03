@@ -18,7 +18,7 @@ sites:
   - name: FreshRSS
     url: https://rss.woomy.ovh
   - name: Debian repository
-    url: https://apt.woomy.ovh
+    url: https://apt.woomy.be
   - name: GSI2Zip
     url: https://gsi2zip.woomy.ovh
   - name: Start page
