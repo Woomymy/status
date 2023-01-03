@@ -14,7 +14,7 @@ sites:
   - name: Bitwarden
     url: https://bitwarden.woomy.be
   - name: NextCloud
-    url: https://nextcloud.woomy.ovh
+    url: https://nextcloud.woomy.be
   - name: FreshRSS
     url: https://rss.woomy.ovh
   - name: Debian repository
