@@ -24,7 +24,7 @@ sites:
   - name: Start page
     url: https://start.woomy.ovh
   - name: Joplin server
-    url: https://joplin.woomy.ovh
+    url: https://joplin.woomy.be
 assignees:
   - woomymy
 status-website:
