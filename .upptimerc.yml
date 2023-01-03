@@ -8,7 +8,7 @@ sites:
   - name: Blog
     url: https://blog.woomy.ovh
   - name: Files storage
-    url: https://files.woomy.ovh
+    url: https://files.woomy.be
   - name: Gitea
     url: https://gitea.woomy.ovh
   - name: Bitwarden
