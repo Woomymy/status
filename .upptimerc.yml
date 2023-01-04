@@ -16,7 +16,7 @@ sites:
   - name: NextCloud
     url: https://nextcloud.woomy.be
   - name: FreshRSS
-    url: https://rss.woomy.ovh
+    url: https://rss.woomy.be
   - name: Debian repository
     url: https://apt.woomy.be
   - name: GSI2Zip
