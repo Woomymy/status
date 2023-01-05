@@ -6,8 +6,8 @@
     "slug": "personnal-website",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "1.97%",
-    "uptimeWeek": "86.00%",
+    "uptimeDay": "1.95%",
+    "uptimeWeek": "85.99%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "99.72%",
     "time": 314,
@@ -16,7 +16,7 @@
     "timeMonth": 301,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-01-05": 992,
+      "2023-01-05": 993,
       "2023-01-04": 419,
       "2022-11-30": 22,
       "2022-09-15": 28
@@ -29,7 +29,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.04%",
     "uptimeWeek": "77.06%",
     "uptimeMonth": "94.72%",
     "uptimeYear": "99.55%",
