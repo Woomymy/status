@@ -6,7 +6,7 @@ sites:
   - name: Personnal website
     url: https://woomy.be
   - name: Blog
-    url: https://blog.woomy.ovh
+    url: https://blog.woomy.be
   - name: Files storage
     url: https://files.woomy.be
   - name: Gitea
