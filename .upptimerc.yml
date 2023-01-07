@@ -20,7 +20,7 @@ sites:
   - name: Debian repository
     url: https://apt.woomy.be
   - name: Start page
-    url: https://start.woomy.ovh
+    url: https://start.woomy.be
   - name: Joplin server
     url: https://joplin.woomy.be
 assignees:
