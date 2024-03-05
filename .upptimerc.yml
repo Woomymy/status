@@ -17,8 +17,6 @@ sites:
     url: https://nextcloud.woomy.be
   - name: FreshRSS
     url: https://rss.woomy.be
-  - name: Debian repository
-    url: https://apt.woomy.be
   - name: Start page
     url: https://start.woomy.be
   - name: Joplin server
