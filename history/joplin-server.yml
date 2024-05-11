@@ -1,7 +1,7 @@
 url: https://joplin.woomy.be
-status: up
-code: 200
-responseTime: 1111
-lastUpdated: 2024-05-10T23:15:32.686Z
+status: down
+code: 502
+responseTime: 471
+lastUpdated: 2024-05-11T14:47:22.189Z
 startTime: 2022-04-26T14:01:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
