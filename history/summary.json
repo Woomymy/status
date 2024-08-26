@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 632,
-    "timeDay": 697,
+    "timeDay": 477,
     "timeWeek": 638,
-    "timeMonth": 606,
-    "timeYear": 627,
+    "timeMonth": 600,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2024-03-05": 74,
       "2024-01-25": 124,
-      "2023-08-28": 1049,
-      "2023-08-27": 28
+      "2023-08-28": 1049
     }
   },
   {
@@ -34,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 198,
-    "timeWeek": 340,
-    "timeMonth": 327,
+    "timeDay": 475,
+    "timeWeek": 363,
+    "timeMonth": 328,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2023-10-03": 19
@@ -54,15 +53,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 834,
-    "timeDay": 1034,
-    "timeWeek": 730,
-    "timeMonth": 682,
-    "timeYear": 800,
+    "timeDay": 569,
+    "timeWeek": 733,
+    "timeMonth": 673,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2024-03-05": 74,
       "2024-01-25": 124,
-      "2023-08-28": 1049,
-      "2023-08-27": 28
+      "2023-08-28": 1049
     }
   },
   {
@@ -76,17 +74,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 745,
-    "timeDay": 589,
-    "timeWeek": 683,
-    "timeMonth": 677,
-    "timeYear": 712,
+    "time": 744,
+    "timeDay": 550,
+    "timeWeek": 694,
+    "timeMonth": 663,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2024-03-05": 1021,
       "2024-03-04": 422,
       "2024-01-25": 124,
-      "2023-08-28": 1050,
-      "2023-08-27": 34
+      "2023-08-28": 1050
     }
   },
   {
@@ -101,16 +98,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 632,
-    "timeDay": 464,
-    "timeWeek": 571,
-    "timeMonth": 570,
+    "timeDay": 545,
+    "timeWeek": 580,
+    "timeMonth": 561,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2024-03-05": 73,
       "2024-03-04": 253,
       "2024-01-25": 124,
-      "2023-08-28": 1050,
-      "2023-08-27": 27
+      "2023-08-28": 1050
     }
   },
   {
@@ -124,19 +120,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 2287,
-    "timeDay": 3321,
-    "timeWeek": 3309,
-    "timeMonth": 3526,
-    "timeYear": 2487,
+    "time": 2290,
+    "timeDay": 2848,
+    "timeWeek": 3286,
+    "timeMonth": 3481,
+    "timeYear": 2490,
     "dailyMinutesDown": {
       "2024-07-06": 166,
       "2024-03-05": 1014,
       "2024-03-04": 434,
       "2024-01-25": 123,
       "2023-11-05": 191,
-      "2023-08-28": 1050,
-      "2023-08-27": 27
+      "2023-08-28": 1050
     }
   },
   {
@@ -145,22 +140,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.woomy.be.ico",
     "slug": "fresh-rss",
     "status": "up",
-    "uptime": "97.79%",
+    "uptime": "97.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 996,
-    "timeDay": 1000,
-    "timeWeek": 1096,
-    "timeMonth": 961,
-    "timeYear": 980,
+    "timeDay": 799,
+    "timeWeek": 1103,
+    "timeMonth": 939,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2024-03-05": 1021,
       "2024-03-04": 434,
       "2024-01-25": 123,
-      "2023-08-28": 1050,
-      "2023-08-27": 27
+      "2023-08-28": 1050
     }
   },
   {
@@ -174,11 +168,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 208,
-    "timeWeek": 259,
-    "timeMonth": 254,
-    "timeYear": 259,
+    "time": 251,
+    "timeDay": 123,
+    "timeWeek": 232,
+    "timeMonth": 249,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2023-10-03": 19
     }
@@ -195,16 +189,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 692,
-    "timeDay": 565,
-    "timeWeek": 730,
-    "timeMonth": 668,
+    "timeDay": 562,
+    "timeWeek": 698,
+    "timeMonth": 653,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2024-03-05": 1021,
       "2024-03-04": 434,
       "2024-01-25": 123,
-      "2023-08-28": 1050,
-      "2023-08-27": 40
+      "2023-08-28": 1050
     }
   }
 ]
