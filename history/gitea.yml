@@ -1,7 +1,7 @@
 url: https://gitea.woomy.be
-status: up
-code: 200
-responseTime: 819
-lastUpdated: 2024-11-16T23:19:52.655Z
+status: down
+code: 502
+responseTime: 843
+lastUpdated: 2024-11-17T05:53:42.189Z
 startTime: 2021-12-19T11:58:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
