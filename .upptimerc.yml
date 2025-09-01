@@ -9,14 +9,10 @@ sites:
     url: https://blog.woomy.be
   - name: Files storage
     url: https://files.woomy.be
-  - name: Gitea
-    url: https://gitea.woomy.be
   - name: Bitwarden
     url: https://bitwarden.woomy.be
   - name: NextCloud
     url: https://nextcloud.woomy.be
-  - name: FreshRSS
-    url: https://rss.woomy.be
   - name: Start page
     url: https://start.woomy.be
   - name: Joplin server
