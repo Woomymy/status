@@ -19,6 +19,7 @@ sites:
     url: https://joplin.woomy.be
 assignees:
   - woomymy
+  - hana-curry
 status-website:
   cname: status.woomy.be
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
