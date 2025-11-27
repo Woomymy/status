@@ -1,7 +1,7 @@
 url: https://nextcloud.woomy.be
-status: up
-code: 200
-responseTime: 3493
-lastUpdated: 2025-11-26T23:20:17.056Z
+status: down
+code: 502
+responseTime: 1592
+lastUpdated: 2025-11-27T09:53:53.361Z
 startTime: 2021-12-19T11:58:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
