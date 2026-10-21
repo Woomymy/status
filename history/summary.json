@@ -91,17 +91,17 @@
     "url": "https://nextcloud.woomy.be",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.woomy.be.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 3191,
-    "timeDay": 1497,
-    "timeWeek": 1534,
-    "timeMonth": 1482,
-    "timeYear": 2499,
+    "time": 3175,
+    "timeDay": 895,
+    "timeWeek": 1379,
+    "timeMonth": 1443,
+    "timeYear": 2493,
     "dailyMinutesDown": {
       "2025-11-20": 56,
       "2025-11-19": 9,
@@ -114,7 +114,8 @@
       "2026-03-27": 1045,
       "2026-03-29": 29,
       "2026-06-20": 152,
-      "2026-08-24": 40
+      "2026-08-24": 40,
+      "2026-10-21": 0
     }
   },
   {
