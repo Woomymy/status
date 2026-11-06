@@ -68,11 +68,11 @@
     "url": "https://bitwarden.woomy.be",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.woomy.be.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.91%",
     "time": 674,
     "timeDay": 721,
@@ -83,7 +83,8 @@
       "2025-11-20": 56,
       "2025-11-19": 10,
       "2026-03-21": 266,
-      "2026-06-20": 152
+      "2026-06-20": 152,
+      "2026-11-06": 7
     }
   },
   {
@@ -91,17 +92,17 @@
     "url": "https://nextcloud.woomy.be",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.woomy.be.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.20%",
     "uptimeYear": "99.29%",
-    "time": 2980,
-    "timeDay": 1461,
-    "timeWeek": 1395,
-    "timeMonth": 1427,
-    "timeYear": 2404,
+    "time": 3059,
+    "timeDay": 23664,
+    "timeWeek": 6954,
+    "timeMonth": 2734,
+    "timeYear": 2517,
     "dailyMinutesDown": {
       "2025-11-20": 56,
       "2025-11-19": 9,
@@ -116,7 +117,8 @@
       "2026-06-20": 152,
       "2026-08-24": 40,
       "2026-10-22": 1158,
-      "2026-10-21": 505
+      "2026-10-21": 505,
+      "2026-11-06": 0
     }
   },
   {
