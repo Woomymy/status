@@ -68,23 +68,23 @@
     "url": "https://bitwarden.woomy.be",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.woomy.be.ico",
     "slug": "bitwarden",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.91%",
-    "time": 674,
-    "timeDay": 721,
-    "timeWeek": 668,
-    "timeMonth": 736,
-    "timeYear": 689,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "69.90%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.83%",
+    "time": 681,
+    "timeDay": 2576,
+    "timeWeek": 1139,
+    "timeMonth": 851,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2025-11-20": 56,
       "2025-11-19": 10,
       "2026-03-21": 266,
       "2026-06-20": 152,
-      "2026-11-06": 7
+      "2026-11-06": 434
     }
   },
   {
@@ -93,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.woomy.be.ico",
     "slug": "next-cloud",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.23%",
+    "uptimeDay": "69.94%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "99.21%",
     "time": 3059,
     "timeDay": 23664,
     "timeWeek": 6954,
@@ -118,7 +118,7 @@
       "2026-08-24": 40,
       "2026-10-22": 1158,
       "2026-10-21": 505,
-      "2026-11-06": 0
+      "2026-11-06": 433
     }
   },
   {
