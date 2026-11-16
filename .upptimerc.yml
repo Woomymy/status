@@ -15,6 +15,10 @@ sites:
     url: https://nextcloud.woomy.be
   - name: Start page
     url: https://start.woomy.be
+  - name: TECMap Frontend
+    url: https://tecmap.woomy.be
+  - name: TECMap API v1
+    url: https://tecmap.woomy.be/api/v1/
 assignees:
   - woomymy
   - hana-curry
