@@ -1,7 +1,7 @@
 url: https://tecmap.woomy.be/api/v1/
-status: down
-code: 502
-responseTime: 293
-lastUpdated: 2026-11-18T06:47:48.138Z
+status: up
+code: 200
+responseTime: 298
+lastUpdated: 2026-11-18T15:58:55.250Z
 startTime: 2026-11-16T14:21:04.979Z
 generator: Upptime <https://github.com/upptime/upptime>
