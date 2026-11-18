@@ -144,20 +144,20 @@
     "url": "https://tecmap.woomy.be",
     "icon": "https://icons.duckduckgo.com/ip3/tecmap.woomy.be.ico",
     "slug": "tec-map-frontend",
-    "status": "down",
-    "uptime": "77.30%",
-    "uptimeDay": "61.73%",
-    "uptimeWeek": "77.30%",
-    "uptimeMonth": "77.30%",
-    "uptimeYear": "77.30%",
-    "time": 531,
-    "timeDay": 576,
-    "timeWeek": 531,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "status": "up",
+    "uptime": "63.01%",
+    "uptimeDay": "53.85%",
+    "uptimeWeek": "63.01%",
+    "uptimeMonth": "63.01%",
+    "uptimeYear": "63.01%",
+    "time": 524,
+    "timeDay": 560,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2026-11-17": 550,
-      "2026-11-18": 1
+      "2026-11-18": 551
     }
   },
   {
@@ -165,20 +165,20 @@
     "url": "https://tecmap.woomy.be/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/tecmap.woomy.be.ico",
     "slug": "tec-map-api-v1",
-    "status": "down",
-    "uptime": "77.32%",
-    "uptimeDay": "61.77%",
-    "uptimeWeek": "77.32%",
-    "uptimeMonth": "77.32%",
-    "uptimeYear": "77.32%",
-    "time": 370,
-    "timeDay": 413,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "status": "up",
+    "uptime": "63.02%",
+    "uptimeDay": "53.86%",
+    "uptimeWeek": "63.02%",
+    "uptimeMonth": "63.02%",
+    "uptimeYear": "63.02%",
+    "time": 360,
+    "timeDay": 352,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2026-11-17": 550,
-      "2026-11-18": 0
+      "2026-11-18": 551
     }
   }
 ]
